@@ -160,6 +160,7 @@ h3{
   top:0; left:0; bottom:0; right:0;
   margin: 35px auto;
 }
+ul{padding-left: 0px;}
 .con2{
   position: absolute;
   top:300px; left:0; bottom:0; right:0;
@@ -173,8 +174,8 @@ h3{
   position: relative;
   top:90px; left:0; bottom:0; right:0;
   width: 400px;
-  font-size: 19px;
-  line-height: 30px;
+  font-size: 20px;
+  line-height: 37px;
 
 }
 .cn2{
@@ -183,7 +184,7 @@ h3{
 }
 .cn3{
 
-  top:-97px; left:0; bottom:0; right:0;
+  top:-134px; left:0; bottom:0; right:0;
   float: right;
 }
 
